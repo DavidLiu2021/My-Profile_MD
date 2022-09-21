@@ -1,0 +1,50 @@
+site_name: Liu Ziyi - Personal Website
+
+theme:
+  name: material
+  palette: 
+    - scheme: default # 日间模式
+      primary: cyan # 上方的
+      accent: orange # 链接等可交互元件的高亮色
+      toggle:
+        icon: material/weather-night # 图标
+        name: 切换至夜间模式 # 鼠标悬浮提示
+    - scheme: slate # 夜间模式
+      primary: indigo
+      accent: orange
+      toggle:
+        icon: material/weather-sunny
+        name: 切换至日间模式
+  features:
+    - navigation.tabs # 使用Tab来进行分类
+    - navigation.top # 返回顶部的按钮 在上滑时出现
+    - navigation.indexes # Tab会有一个index.md 而不是在打开Tab时打开第一篇文章
+    - navigation.expand # 打开Tab时左侧目录全部展开
+    - search.suggest # 搜索输入一些字母时推荐补全整个单词
+    - search.highlight # 搜索出的文章关键词加入高亮
+
+
+nav:
+  - 长线游戏项目:
+    - Game_Project/index.md
+    - 重铸: Game_Project/Reforge.md
+    - 重铸2.0: Game_Project/Reforge2.md
+    - People Don't Know: Game_Project/PDK.md
+    - The Fall: Game_Project/FALL.md
+  - Game Jam:
+    - GJ/index.md
+    - 你掉的是这条猫还是这条狗: GJ/CatandDog.md
+    - Reflection: GJ/Reflection.md
+  - 游戏程序学习笔记:
+    - Coding/index.md
+    - Lone Echo的角色动画机制调研: Coding/LE_charAnimation.md
+    - 免费创建静态网站: Coding/PersonalWeb.md
+  - 游戏美术学习笔记:
+    - Art/index.md
+    - Blender学习笔记: Art/BlenderNote1.md
+
+
+
+
+
+
