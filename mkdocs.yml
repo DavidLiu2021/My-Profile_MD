@@ -28,7 +28,7 @@ theme:
 
 nav:
   - Home:
-    - index.md
+    - docs/index.md
   - 长线游戏项目:
     - Game_Project/index.md
     - 重铸: Game_Project/Reforge.md
