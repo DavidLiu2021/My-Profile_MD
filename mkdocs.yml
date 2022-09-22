@@ -43,6 +43,7 @@ nav:
     - Coding/index.md
     - Lone Echo的角色动画机制调研: Coding/LE_charAnimation.md
     - 免费创建静态网站: Coding/PersonalWeb.md
+    - 游戏性能测试及优化: Coding/optimiza.md
   - 游戏美术学习笔记:
     - Art/index.md
     - Blender学习笔记: Art/BlenderNote1.md
