@@ -39,15 +39,7 @@ nav:
     - GJ/index.md
     - 你掉的是这条猫还是这条狗: GJ/CatandDog.md
     - Reflection: GJ/Reflection.md
-  - 游戏程序学习笔记:
-    - Coding/index.md
-    - Lone Echo的角色动画机制调研: Coding/LE_charAnimation.md
-    - 免费创建静态网站: Coding/PersonalWeb.md
-    - 游戏性能测试及优化: Coding/optimiza.md
-  - 游戏美术学习笔记:
-    - Art/index.md
-    - Blender学习笔记: Art/BlenderNote1.md
-    - 在UE中的地编流程和注意事项: Art/UE_environment.md
+
 
 
 
