@@ -2,9 +2,9 @@
 
 ## 参考资料
 
-全程教程：[GitHub_Pages个人网站构建与发布]<https://www.bilibili.com/video/BV1hL4y1w72r/?spm_id_from=333.337.search-card.all.click&vd_source=81f507780c5f3724647df2b527363b64>
+全程教程：[GitHub Pages 个人网站构建与发布](https://www.bilibili.com/video/BV1hL4y1w72r/?spm_id_from=333.337.search-card.all.click&vd_source=81f507780c5f3724647df2b527363b64)
 
-官方文档：[MkDocs]<https://www.mkdocs.org/>, [Material_for_Mkdocs]<https://squidfunk.github.io/mkdocs-material/>
+官方文档： [MkDocs](https://www.mkdocs.org/), [Material for Mkdocs](https://squidfunk.github.io/mkdocs-material/)
 
 Mkdocs构建示例：<https://yang-xijie.github.io/BLOG/Markdown/mkdocs-site/>
 
@@ -17,7 +17,7 @@ Mkdocs构建示例：<https://yang-xijie.github.io/BLOG/Markdown/mkdocs-site/>
 
 ## 安装mkdocs
 
-详细说明：[Getting Started - MkDocs]<https://www.mkdocs.org/getting-started/#installation>
+详细说明：[Getting Started - MkDocs](https://www.mkdocs.org/getting-started/#installation)
 
 为了更方便地安装，电脑上需有一个python，可以检查电脑上否已有，并检查版本
 
@@ -70,7 +70,7 @@ The meaning of each func is explained in material for mkdocs: Installation - Mat
 
 ## 添加网站文本内容
 
-In order to link a page to a section, create a new document with the name index.md in the respective folder, and add it to the beginning of your navigation section in mkdocs.yml:
+In order to link a page to a section, create a new document with the name index.md in the respective folder, and add it to the beginning of your navigation section in `mkdocs.yml`:
 
 ```markdown
 nav:
@@ -85,7 +85,7 @@ Create respective documents in folder docs
 
 ## 发布网站
 
-Create a repository on GitHub page, upload the previous documents to the repository, and create a folder: '.github/workflow/anyName.yml'
+Create a repository on GitHub page, upload the previous documents to the repository, and create a folder: `.github/workflow/anyName.yml`
 
 Paste:
 
@@ -110,4 +110,4 @@ jobs: # 工作流的具体内容
       - run: mkdocs gh-deploy --force # 使用mkdocs-material部署gh-pages分支
 ```
 
-The website is generated on 'settings > pages '
+The website is generated on `settings > pages`
