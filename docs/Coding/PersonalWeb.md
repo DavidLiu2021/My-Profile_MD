@@ -2,9 +2,9 @@
 
 ## 参考资料
 
-全程教程：[GitHub Pages 个人网站构建与发布]<https://www.bilibili.com/video/BV1hL4y1w72r/?spm_id_from=333.337.search-card.all.click&vd_source=81f507780c5f3724647df2b527363b64>
+全程教程：[GitHub_Pages个人网站构建与发布]<https://www.bilibili.com/video/BV1hL4y1w72r/?spm_id_from=333.337.search-card.all.click&vd_source=81f507780c5f3724647df2b527363b64>
 
-官方文档：[MkDocs]<https://www.mkdocs.org/>, [Material for Mkdocs]<https://squidfunk.github.io/mkdocs-material/>
+官方文档：[MkDocs]<https://www.mkdocs.org/>, [Material_for_Mkdocs]<https://squidfunk.github.io/mkdocs-material/>
 
 Mkdocs构建示例：<https://yang-xijie.github.io/BLOG/Markdown/mkdocs-site/>
 

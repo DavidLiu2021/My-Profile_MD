@@ -63,7 +63,7 @@ unity对于constraint的说明：[unity手册-创建游戏玩法-约束](https:/
 
 #### 手臂的IK估算过程
 
-1. Estimate chest facing - 估算胸部朝向
+- Estimate chest facing - 估算胸部朝向
 
 *Rotate model to face chest direction*
 
@@ -75,7 +75,7 @@ unity对于constraint的说明：[unity手册-创建游戏玩法-约束](https:/
 
 ![截屏2022-08-16 20.15.13.png](https://s2.loli.net/2022/09/22/Z5v1xDEHScAT7Wr.png)
 
-2. Estimate arm extension (stretch) - 估算手臂的伸展
+- Estimate arm extension (stretch) - 估算手臂的伸展
 
 *Adjust arm joints to desired length*
 
@@ -83,7 +83,7 @@ unity对于constraint的说明：[unity手册-创建游戏玩法-约束](https:/
 
 ![截屏2022-08-16 20.16.45.png](https://s2.loli.net/2022/09/22/Ecp5KUzJ9sBj2Hd.png)
 
-3. Estimate clavicle extension - 估算锁骨的伸展
+- Estimate clavicle extension - 估算锁骨的伸展
 
 *Input extension angle and distance into an additive animation*
 
@@ -93,7 +93,7 @@ unity对于constraint的说明：[unity手册-创建游戏玩法-约束](https:/
 
 ![截屏2022-08-16 20.21.40.png](https://s2.loli.net/2022/09/22/4vBEoWmHiUI98T2.png)
 
-4. Estimate elbow pole vector - 估算肘极向量
+- Estimate elbow pole vector - 估算肘极向量
 
 *Blend between a base rest pose and wrist direction*
 
@@ -101,7 +101,7 @@ unity对于constraint的说明：[unity手册-创建游戏玩法-约束](https:/
 
 ![截屏2022-08-16 20.22.17.png](https://s2.loli.net/2022/09/22/3fTQkqgGlER4BYe.png)
 
-5. Two bone IK solve for arms
+- Two bone IK solve for arms
 
 <https://mrl.cs.nyu.edu/~perlin/gdc/ik/ik.java.html>
 
