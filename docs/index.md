@@ -1,4 +1,4 @@
-# **Welcome to My World**
+# Welcome to My World
 
 ![frontpage.png](https://s2.loli.net/2023/01/14/ezGkW1O9DJTIRa7.png)
 
@@ -13,7 +13,6 @@ Welcome to game street.
 David Liu
 
 Chinese University of Hong Kong, Shenzhen  -  Finance
-
 
 ***
 
@@ -43,7 +42,7 @@ Chinese University of Hong Kong, Shenzhen  -  Finance
 
 团队分工：在9人团队中担任PM，关卡策划，文案策划，UI，3D美术
 
-### 重铸2.0
+### Reforge 2.0
 
 来源：2022 第二届CUSGA
 
@@ -59,7 +58,7 @@ Chinese University of Hong Kong, Shenzhen  -  Finance
 
 团队分工：产品经理，担任项目管理，VR项目调研，关卡策划，交互设计，部分场景搭建、开发工作
 
-### 倒影
+### Reflection
 
 来源：2022 Epic MegaJam
 

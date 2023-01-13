@@ -27,17 +27,17 @@ theme:
 
 
 nav:
-  - Home:
+  - CV:
     - index/index.md
-  - 长线游戏项目:
+  - Game Project:
     - Game_Project/index.md
-    - 重铸: Game_Project/Reforge.md
-    - 重铸2.0: Game_Project/Reforge2.md
+    - Reforge: Game_Project/Reforge.md
+    - Reforge 2.0: Game_Project/Reforge2.md
     - People Don't Know: Game_Project/PDK.md
     - The Fall: Game_Project/FALL.md
   - Game Jam:
     - GJ/index.md
-    - 你掉的是这条猫还是这条狗: GJ/CatandDog.md
+    - Cat and Dog: GJ/CatandDog.md
     - Reflection: GJ/Reflection.md
 
 

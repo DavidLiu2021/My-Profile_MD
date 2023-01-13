@@ -1,26 +1,29 @@
-# **Reforge**
+# Reforge
 
 ![Reforge](https://s2.loli.net/2022/09/21/IJvE86bsDlHa4gC.png)
 
-重铸是我走进游戏世界的第一个作品。它之所以重要不仅因为它优秀、完整，更因为我遇到了一群为止陪伴我很久的合作伙伴，他们中有非常活力的文学爱好者、才华横溢的原画师，还有无所不能的程序大牛，我至今感谢他们在游戏开发上给予我的帮助。
 
-## 游戏信息
 
-来源：2021腾讯天美工作室minigame比赛
+## Basic Information
 
-类型：2D叙事向卷轴解谜游戏
+Title: Reforge
 
-开发时长：2021-09-01/2021-12-11
+Platform: Android
 
-团队分工：在8人团队担任关卡策划和UI绘制
+Engine: Unity2D
 
-引擎：Unity2D
+Feature List: 2D, puzzle, atmospheric, 1980s, story rich
 
-## 剧情概览
+Length of Development: 2021-09-01/2021-12-11
 
-80年代的东北重工业基地生活着一群平凡又勇敢的人，姜卫国的家庭则是那个年代东北家庭的缩影。并不富裕的一代人为了怀中嗷嗷待哺的孩子放弃了小康生活，愧疚的二儿子于是开启了一条包含血泪的时空穿越之旅。
+Role: Design, 2D art
 
-单纯、朴实，是这个故事能传达的最强烈的情感。生活在21世纪的我们总是忘记上个世纪的人们是如何搭建起这个平和的现代大厦的，对其保有敬意、尽全力去记录这段时光，是我们能给予他们最大的敬意。
+
+## Story
+
+China implemented family planning in the 1980s, when a family with two children would be severely punished. Nan Jiang was born as the second child of the family. He cannot stand the fact that he was the cause of the family poverty, and he did something to change......
+
+
 
 ## 玩法详解
 
