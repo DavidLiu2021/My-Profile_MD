@@ -1,26 +1,25 @@
 # **Welcome to My World**
 
+![frontpage.png](https://s2.loli.net/2023/01/14/ezGkW1O9DJTIRa7.png)
+
 I am fortunate to be given a chance to explore the mystries of game. 
 
-Welcome to my world.
+Welcome to game street.
 
 ***
 
 ## INFORMATION
 
-Nmae: Liu Ziyi
+David Liu
 
-Gender: Female
+Chinese University of Hong Kong, Shenzhen  -  Finance
 
-本科：香港中文大学（深圳）- SME - 金融
-
-所在地：广东省深圳市龙岗区
 
 ***
 
-## 游戏制作经验
+## PROJECT
 
-### 重铸
+### Reforge
 
 来源：2021腾讯天美工作室minigame比赛
 
